@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @saranOn
-- 👀 I’m interested in UI dev and node js and javascript
-- 🌱 No  learning .. but I like to learn graphics design
+- 👋 Hi, I’m @saranOn.
+- 👀 UI developer with expertise in node js and javascript.
+- 🌱 No  learning .. but I like to learn graphics design.
 - 💞️ 
 - 📫 reach me on njhanumgooglum@gmail.com
 
